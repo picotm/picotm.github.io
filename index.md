@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+---
+layout: home
+---
 
-You can use the [editor on GitHub](https://github.com/picotm/picotm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Picotm is a system-level transaction manager. It provides transactional
+semantics for low-level and operating-system functionality. It's flexible
+and extensible to cover exactly your requirements. **Error handling** and
+**thread isolation** are provided by picotm, all you have to implement is
+the application logic.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Picotm is implemented in plain C and is well-suited for implementing
+applications and firmware that is secure, reliable and thread-safe; yet
+easy to develop. This makes picotm well-suited for **multi-threaded**
+and **fault-tolerant** software.
 
-### Markdown
+Picotm is Open Source under terms of the the
+[Mozilla Public License, v.2.0][mpl_2_0]; viable for
+free and proprietary software.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Free and commercial support][support] is available.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/picotm/picotm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[mpl_2_0]:  https://mozilla.org/MPL/2.0/
+[support]:  /support/
