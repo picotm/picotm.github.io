@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing picotm 0.1.0"
-author: Thomas
+author: Thomas Zimmermann
 date:   2017-04-30 10:56:43 +0200
 categories: picotm release
 ---
