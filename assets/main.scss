@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/*
+ * Background image at top-left corner
+ */
+body {
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+}
