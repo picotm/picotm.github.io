@@ -2,18 +2,20 @@
 layout: default
 ---
 
-<!--
+{% comment %}
+
     Changelog
 
     - put content before 'Posts'
+    - changed 'Posts' to 'News and Updates'
 
-  -->
+{% endcomment %}
 
 <div class="home">
 
   {{ content }}
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">News and Updates</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
