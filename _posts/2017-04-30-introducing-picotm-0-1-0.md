@@ -9,6 +9,8 @@ Welcome to picotm, the system-level transaction manager. With
 [picotm 0.1.0][picotm_0_1_0] just released, it's a good time to write a bit
 about the software and the idea behind.
 
+<!-- excerpt -->
+
 Picotm is a system-level transaction manager. You probably heard of
 transactions in the context of data bases, where they ensure that multiple
 concurent users don't interfere with each other.

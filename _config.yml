@@ -28,6 +28,8 @@ url: "https://picotm.giohub.io" # the base hostname & protocol for your site, e.
 #twitter_username: jekyllrb
 github_username:  picotm
 
+excerpt_separator: "<!-- excerpt -->"
+
 # Build settings
 markdown: kramdown
 theme: minima
