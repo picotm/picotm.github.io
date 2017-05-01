@@ -33,6 +33,10 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Jekyll SEO tag
+author: Thomas Zimmermann
