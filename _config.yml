@@ -39,4 +39,15 @@ exclude:
   - Gemfile.lock
 
 # Jekyll SEO tag
+
+
 author: Thomas Zimmermann
+email:  tdz@users.sourceforge.net
+
+collections:
+  - impressum
+
+collections:
+  impressum:
+    output: true
+    permalink: /impressum/
