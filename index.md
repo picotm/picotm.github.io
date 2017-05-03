@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<h1 class="page-heading">At a Glance</h1>
+
 Picotm is a system-level transaction manager. It provides transactional
 semantics for low-level and operating-system functionality. It's flexible
 and extensible to cover exactly your requirements. **Error handling** and
