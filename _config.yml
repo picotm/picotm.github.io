@@ -49,9 +49,16 @@ author: Thomas Zimmermann
 email:  tdz@users.sourceforge.net
 
 collections:
+  - docs
   - impressum
 
 collections:
+  docs:
+    output: true
+    permalink: /:collection/:path
+
   impressum:
     output: true
     permalink: /impressum/
+
+
