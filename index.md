@@ -15,7 +15,7 @@ applications and firmware that is secure, reliable and thread-safe; yet
 easy to develop. This makes picotm well-suited for **multi-threaded**
 and **fault-tolerant** software.
 
-Picotm is Open Source under terms of the the
+Picotm is Open Source under the terms of the
 [Mozilla Public License, v.2.0][mpl_2_0]; viable for
 free and proprietary software.
 
