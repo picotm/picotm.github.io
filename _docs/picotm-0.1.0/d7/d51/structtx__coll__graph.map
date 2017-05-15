@@ -1,0 +1,7 @@
+<map id="tx" name="tx">
+<area shape="rect" id="node4" href="$d2/dd4/structtx__shared.html" title="tx_shared" alt="" coords="118,273,197,300"/>
+<area shape="rect" id="node2" href="$dc/d7a/struct____picotm__tx.html" title="__picotm_tx" alt="" coords="5,95,99,121"/>
+<area shape="rect" id="node3" href="$dd/deb/structmodule.html" title="module" alt="" coords="125,95,189,121"/>
+<area shape="rect" id="node5" href="$d0/d4a/structlog.html" title="The log holds the events of a transaction. " alt="" coords="215,95,254,121"/>
+<area shape="rect" id="node6" href="$df/d7d/structevent.html" title="event" alt="" coords="207,5,262,32"/>
+</map>
