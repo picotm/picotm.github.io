@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Documentation
+permalink: /documentation/
 ---
 
 Here you'll find documentation for picotm. With each new release, we
