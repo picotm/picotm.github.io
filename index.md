@@ -2,7 +2,16 @@
 layout: home
 ---
 
-<h1 class="page-heading">At a Glance</h1>
+<div style="font-size: 150%; text-align: center">
+<p>
+<i class="fa fa-download" aria-hidden="true"></i> <a href="{{ site.download_url }}">Download</a> &nbsp;&nbsp;&nbsp;
+<i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:picotm-devel-request@picotm.org?subject=subscribe&body=subscribe">Subscribe</a> &nbsp;&nbsp;&nbsp;
+<i class="fa fa-code-fork" aria-hidden="true"></i> <a href="https://github.com/picotm/picotm/fork">Fork</a> &nbsp;&nbsp;&nbsp;
+<i class="fa fa-bug" aria-hidden="true"></i> <a href="https://github.com/picotm/picotm/issues">Report</a>
+</p>
+</div>
+
+## At a Glance
 
 Picotm is a system-level transaction manager. It provides transactional
 semantics for low-level and operating-system functionality. It's flexible
