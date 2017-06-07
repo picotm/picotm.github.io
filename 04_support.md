@@ -28,19 +28,20 @@ may include training, custom modifications, integration into your software
 project, long term support, or anything else you need. If you are interested,
 please reach out to
 
-  Thomas Zimmermann <tdz@users.sourceforge.net>.
+  [Thomas Zimmermann][transactionblog] <tdz@users.sourceforge.net>.
 
 
 ## Sponsorship and Donations
 
 If you use picotm and want sponsor its development, please reach out to
 
-  Thomas Zimmermann <tdz@users.sourceforge.net>.
+  [Thomas Zimmermann][transactionblog] <tdz@users.sourceforge.net>.
 
 Your sponsorship ensures picotm's continued development and availability.
 Sponsors will be listed in a prominent position on the home page, and can
 benefit from special rates for professional support.
 
-[irc]:          {{ size.baseurl }} /irc/
-[issues]:       https://github.com/picotm/picotm/issues
-[picotm-devel]: https://www.freelists.org/list/picotm-devel
+[irc]:              {{ size.baseurl }} /irc/
+[issues]:           https://github.com/picotm/picotm/issues
+[picotm-devel]:     https://www.freelists.org/list/picotm-devel
+[transactionblog]:  http://transactionblog.org
