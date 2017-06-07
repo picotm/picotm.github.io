@@ -50,6 +50,7 @@ email:  tdz@users.sourceforge.net
 
 collections:
   - docs
+  - datenschutzerklaerung
   - impressum
 
 collections:
@@ -57,8 +58,10 @@ collections:
     output: true
     permalink: /:collection/:path
 
+  datenschutzerklaerung:
+    output: true
+    permalink: /datenschutzerklaerung/
+
   impressum:
     output: true
     permalink: /impressum/
-
-
