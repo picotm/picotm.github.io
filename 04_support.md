@@ -4,10 +4,19 @@ title: Support
 permalink: /support/
 ---
 
-You are most welcome to contact us. To report bugs or request features,
-or if you simply have a question, please open a new topic in the
-[issue tracker][issues] on Github. The issue tracker is currently the
-project's main communication channel.
+You are most welcome to contact us.
+
+The main channel for communication is our mailing list at
+
+  <picotm-devel@picotm.org>
+
+This is the place for discussing picotm usage and development, or if you
+simply have a question. Use the [web-interface to subscribe][picotm-devel] to the list, or
+<a href="mailto:picotm-devel-request@picotm.org?subject=subscribe&body=subscribe">
+send 'subscribe' to picotm-devel-request@picotm.org</a>.
+
+To report bugs or request features please open a new topic in the
+[issue tracker][issues] on Github.
 
 For real-time communication, join our IRC channel
 [#picotm on freenode.net][irc].
@@ -32,5 +41,6 @@ Your sponsorship ensures picotm's continued development and availability.
 Sponsors will be listed in a prominent position on the home page, and can
 benefit from special rates for professional support.
 
-[irc]:      /irc/
-[issues]:   https://github.com/picotm/picotm/issues
+[irc]:          {{ size.baseurl }} /irc/
+[issues]:       https://github.com/picotm/picotm/issues
+[picotm-devel]: https://www.freelists.org/list/picotm-devel
