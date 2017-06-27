@@ -43,7 +43,7 @@ exclude:
 # Jekyll SEO tag
 
 # quick downloads
-download_url:   https://github.com/picotm/picotm/releases/download/v0.2.0/picotm-0.2.0.tar.gz
+download_url:   https://github.com/picotm/picotm/releases/download/v0.3.0/picotm-0.3.0.tar.gz
 
 author: Thomas Zimmermann
 email:  tdz@users.sourceforge.net
