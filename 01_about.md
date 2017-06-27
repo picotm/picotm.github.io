@@ -12,9 +12,8 @@ Picotm applies the concept of transactions to low-level code and
 operating-system interfaces. Error handling and thread isolation are
 provided by picotm, all you have to write is the application logic.
 
-Picotm is Open Source under terms of the the
-[Mozilla Public License, v.2.0][mpl_2_0]; viable for free and proprietary
-software.
+Picotm is Open Source under terms of the [MIT License][license:mit];
+viable for use with free and proprietary software.
 
 ## Features
 
@@ -190,8 +189,7 @@ get a snapshot of the latest code.
 ## Licensing
 
 Picotm is Open Source Software, provided under the terms of the
-[Mozilla Public License, v.2.0][mpl_2_0]. The MPL 2.0 allows for inclusion
-into proprietary software, while ensuring the freedom and availability of
-the code base.
+[MIT License][license:mit]. The MIT License allows for use with free and
+proprietary software.
 
-[mpl_2_0]:  https://mozilla.org/MPL/2.0/
+[license:mit]:  http://opensource.org/licenses/MIT
