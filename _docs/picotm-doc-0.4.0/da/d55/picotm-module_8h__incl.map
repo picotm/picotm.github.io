@@ -1,0 +1,6 @@
+<map id="include/picotm/picotm&#45;module.h" name="include/picotm/picotm&#45;module.h">
+<area shape="rect" id="node3" href="$d3/dce/stddef_8h.html" title="Transactional wrappers for interfaces of &lt;stddef.h&gt;. " alt="" coords="203,169,272,196"/>
+<area shape="rect" id="node5" href="$d4/dd1/compiler_8h.html" title="Contains macros for dealing with compiler extensions. " alt="" coords="69,319,195,345"/>
+<area shape="rect" id="node7" href="$dd/dd6/picotm-error_8h.html" title="Contains struct picotm_error and helper functions. " alt="" coords="97,95,199,121"/>
+<area shape="rect" id="node4" href="$d1/d7d/picotm-tm_8h.html" title="Public interfaces of picotm&#39;s Transactional Memory module. " alt="" coords="170,244,305,271"/>
+</map>

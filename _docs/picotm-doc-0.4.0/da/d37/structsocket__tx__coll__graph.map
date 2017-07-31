@@ -1,0 +1,8 @@
+<map id="socket_tx" name="socket_tx">
+<area shape="rect" id="node2" href="$d7/dc2/structpicotm__ref16.html" title="picotm_ref16" alt="" coords="5,95,103,121"/>
+<area shape="rect" id="node3" href="$d9/d7e/structsocket.html" title="socket" alt="" coords="127,95,189,121"/>
+<area shape="rect" id="node4" href="$d4/d5d/structpicotm__rwlock.html" title="A reader&#45;writer lock. " alt="" coords="30,5,137,32"/>
+<area shape="rect" id="node5" href="$d9/dd5/structpicotm__shared__ref16.html" title="picotm_shared_ref16" alt="" coords="161,5,304,32"/>
+<area shape="rect" id="node6" href="$d7/d07/structpicotm__rwstate.html" title="picotm_rwstate" alt="" coords="213,95,324,121"/>
+<area shape="rect" id="node7" href="$d5/d8e/structofd__tx.html" title="ofd_tx" alt="" coords="349,95,407,121"/>
+</map>
