@@ -192,4 +192,4 @@ Picotm is Open Source Software, provided under the terms of the
 [MIT License][license:mit]. The MIT License allows for use with free and
 proprietary software.
 
-[license:mit]:  http://opensource.org/licenses/MIT
+[license:mit]:  http://choosealicense.com/licenses/mit/
