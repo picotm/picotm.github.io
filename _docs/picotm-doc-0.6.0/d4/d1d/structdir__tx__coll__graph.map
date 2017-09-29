@@ -1,0 +1,9 @@
+<map id="dir_tx" name="dir_tx">
+<area shape="rect" id="node2" href="$d7/dc2/structpicotm__ref16.html" title="picotm_ref16" alt="" coords="5,95,103,121"/>
+<area shape="rect" id="node3" href="$d7/d07/structpicotm__rwstate.html" title="picotm_rwstate" alt="" coords="127,95,237,121"/>
+<area shape="rect" id="node4" href="$df/dc7/structfile__tx.html" title="file_tx" alt="" coords="261,95,319,121"/>
+<area shape="rect" id="node5" href="$d5/d0b/structfile__tx__ops.html" title="File operations. " alt="" coords="235,5,321,32"/>
+<area shape="rect" id="node6" href="$d7/d28/structdir.html" title="dir" alt="" coords="353,95,392,121"/>
+<area shape="rect" id="node7" href="$d6/df1/structfile__id.html" title="file_id" alt="" coords="345,5,401,32"/>
+<area shape="rect" id="node8" href="$d4/d5d/structpicotm__rwlock.html" title="A reader&#45;writer lock. " alt="" coords="425,5,531,32"/>
+</map>
