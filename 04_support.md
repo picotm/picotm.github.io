@@ -4,9 +4,8 @@ title: Support
 permalink: /support/
 ---
 
-You are most welcome to contact us.
-
-The main channel for communication is our mailing list at
+You are most welcome to contact us. The main channel for communication is our
+mailing list at
 
   &lt;<picotm-devel@picotm.org>&gt;
 
@@ -29,17 +28,6 @@ project, long term support, or anything else you need. If you are interested,
 please reach out to
 
   [Thomas Zimmermann][transactionblog] &lt;<tdz@users.sourceforge.net>&gt;.
-
-
-## Sponsorship and Donations
-
-If you use picotm and want sponsor its development, please reach out to
-
-  [Thomas Zimmermann][transactionblog] &lt;<tdz@users.sourceforge.net>&gt;.
-
-Your sponsorship ensures picotm's continued development and availability.
-Sponsors will be listed in a prominent position on the home page, and can
-benefit from special rates for professional support.
 
 [irc]:              {{ size.baseurl }} /irc/
 [issues]:           https://github.com/picotm/picotm/issues
