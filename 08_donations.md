@@ -8,7 +8,7 @@ Thank you for your support. If you like picotm and want to support the
 project, please donate. The easiest way of donating is by sending Bitcoins
 to the address
 
-  `1NVUjM8f65AiTRfYsYCmSwYHLLAmQj4pbu`
+  [1NVUjM8f65AiTRfYsYCmSwYHLLAmQj4pbu][bitcoin:picotm].
 
 These funds will be used to cover the expenses of maintaining the web
 site, visiting conferences, etc. If you have any questions about donating
@@ -29,3 +29,4 @@ Sponsors will be listed in a prominent position on the home page and can
 benefit from special rates for professional support.
 
 [transactionblog]:  http://transactionblog.org
+[bitcoin:picotm]:   bitcoin:1NVUjM8f65AiTRfYsYCmSwYHLLAmQj4pbu?label=Donation
