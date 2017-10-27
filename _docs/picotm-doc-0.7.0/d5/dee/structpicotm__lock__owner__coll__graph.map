@@ -1,0 +1,4 @@
+<map id="picotm_lock_owner" name="picotm_lock_owner">
+<area shape="rect" id="node2" href="$db/dac/structpicotm__os__mutex.html" title="The mutex lock of the operating system. " alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node3" href="$d9/d09/structpicotm__os__cond.html" title="The condition variable of the operating system. " alt="" coords="155,5,272,32"/>
+</map>
