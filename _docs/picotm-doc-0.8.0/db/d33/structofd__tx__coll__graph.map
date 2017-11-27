@@ -1,0 +1,10 @@
+<map id="ofd_tx" name="ofd_tx">
+<area shape="rect" id="node2" href="$d7/dc2/structpicotm__ref16.html" title="picotm_ref16" alt="" coords="5,184,103,211"/>
+<area shape="rect" id="node3" href="$d7/d07/structpicotm__rwstate.html" title="picotm_rwstate" alt="" coords="127,184,237,211"/>
+<area shape="rect" id="node4" href="$df/dc7/structfile__tx.html" title="file_tx" alt="" coords="261,184,319,211"/>
+<area shape="rect" id="node5" href="$d5/d0b/structfile__tx__ops.html" title="File operations. " alt="" coords="231,95,317,121"/>
+<area shape="rect" id="node6" href="$dc/dbf/structofd.html" title="ofd" alt="" coords="374,184,414,211"/>
+<area shape="rect" id="node7" href="$d4/d5d/structpicotm__rwlock.html" title="A reader&#45;writer lock. " alt="" coords="341,95,447,121"/>
+<area shape="rect" id="node8" href="$dc/dbe/structofd__id.html" title="The unique id of an open file description. " alt="" coords="472,95,529,121"/>
+<area shape="rect" id="node9" href="$d6/df1/structfile__id.html" title="file_id" alt="" coords="473,5,529,32"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="txlib_event" name="txlib_event">
+<area shape="rect" id="node2" href="$df/da6/structtxlist__entry.html" title="Represents an entry in a transaction&#45;safe list. " alt="" coords="19,59,106,85"/>
+<area shape="rect" id="node15" href="$d2/d72/structtxlist__state.html" title="The global state of transaction&#45;safe list. " alt="" coords="215,171,302,197"/>
+<area shape="rect" id="node3" href="$d9/d83/structtxstack__entry.html" title="Represents an entry in a transaction&#45;safe stack. " alt="" coords="12,223,113,249"/>
+<area shape="rect" id="node4" href="$d6/dd4/structtxstack__tx.html" title="A stack transaction. " alt="" coords="458,311,541,337"/>
+<area shape="rect" id="node5" href="$dd/ddf/structtxstack__state.html" title="The global state of transaction&#45;safe stack. " alt="" coords="208,303,309,329"/>
+<area shape="rect" id="node6" href="$d4/d5d/structpicotm__rwlock.html" title="A reader&#45;writer lock. " alt="" coords="9,377,116,404"/>
+<area shape="rect" id="node10" href="$de/dec/structtxqueue__state.html" title="The global state of transaction&#45;safe queue. " alt="" coords="207,521,311,548"/>
+<area shape="rect" id="node13" href="$d5/d31/structtxmultiset__state.html" title="The global state of transaction&#45;safe multiset. " alt="" coords="201,471,316,497"/>
+<area shape="rect" id="node7" href="$d7/d07/structpicotm__rwstate.html" title="picotm_rwstate" alt="" coords="203,371,314,397"/>
+<area shape="rect" id="node8" href="$dd/d4e/structtxqueue__tx.html" title="A queue transaction. " alt="" coords="456,481,543,508"/>
+<area shape="rect" id="node12" href="$d2/d13/structtxmultiset__tx.html" title="A multiset transaction. " alt="" coords="451,391,548,417"/>
+<area shape="rect" id="node14" href="$d2/d38/structtxlist__tx.html" title="A list transaction. " alt="" coords="465,255,533,281"/>
+<area shape="rect" id="node9" href="$da/dd0/structtxqueue__entry.html" title="Represents an entry in a transaction&#45;safe queue. " alt="" coords="11,647,115,673"/>
+<area shape="rect" id="node11" href="$d0/d57/structtxmultiset__entry.html" title="Represents an entry in a transaction&#45;safe multiset. " alt="" coords="5,532,120,559"/>
+</map>
