@@ -22,6 +22,7 @@ Picotm offers
  - transactional semantics for arbitrary blocks of C code, and comes with
  - built-in support for
    - memory operations (Transactional Memory),
+   - transactional data structures (i.e., lists, multisets, queues, stacks),
    - memory allocation,
    - file-descriptor I/O,
    - C string and memory functions,
