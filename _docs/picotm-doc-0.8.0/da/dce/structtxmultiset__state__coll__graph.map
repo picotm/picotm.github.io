@@ -1,0 +1,4 @@
+<map id="txmultiset_state" name="txmultiset_state">
+<area shape="rect" id="node2" href="$d4/d5d/structpicotm__rwlock.html" title="A reader&#45;writer lock. " alt="" coords="5,14,112,41"/>
+<area shape="rect" id="node3" href="$d0/d57/structtxmultiset__entry.html" title="Represents an entry in a transaction&#45;safe multiset. " alt="" coords="136,14,251,41"/>
+</map>

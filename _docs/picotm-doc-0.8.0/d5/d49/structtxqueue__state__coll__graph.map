@@ -1,0 +1,4 @@
+<map id="txqueue_state" name="txqueue_state">
+<area shape="rect" id="node2" href="$d4/d5d/structpicotm__rwlock.html" title="A reader&#45;writer lock. " alt="" coords="5,7,112,33"/>
+<area shape="rect" id="node3" href="$da/dd0/structtxqueue__entry.html" title="Represents an entry in a transaction&#45;safe queue. " alt="" coords="136,7,240,33"/>
+</map>

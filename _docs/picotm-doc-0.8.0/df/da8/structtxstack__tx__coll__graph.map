@@ -1,0 +1,6 @@
+<map id="txstack_tx" name="txstack_tx">
+<area shape="rect" id="node2" href="$dd/ddf/structtxstack__state.html" title="The global state of transaction&#45;safe stack. " alt="" coords="147,95,248,121"/>
+<area shape="rect" id="node3" href="$d9/d83/structtxstack__entry.html" title="Represents an entry in a transaction&#45;safe stack. " alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node4" href="$d4/d5d/structpicotm__rwlock.html" title="A reader&#45;writer lock. " alt="" coords="184,5,291,32"/>
+<area shape="rect" id="node5" href="$d7/d07/structpicotm__rwstate.html" title="picotm_rwstate" alt="" coords="273,95,383,121"/>
+</map>
