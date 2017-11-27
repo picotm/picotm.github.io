@@ -47,7 +47,7 @@ saves it to a file and its backup.
 The program uses two different types of resources: main memory and file
 descriptors.
 
-```
+~~~ c
     int global_value; /* concurrently accessed by multiple threads */
 
     pthread_mutex_t lock; /* protects |global_value| */
@@ -77,7 +77,7 @@ descriptors.
 
         pthread_mutex_unlock(&lock);
     }
-```
+~~~
 
 The code above has a number of problems.
 
@@ -110,7 +110,7 @@ locking is replaced by transactions. Each transactions starts with
 `picotm_begin` and commits with `picotm_commit`. Users can provide their own
 error-recovery code between `picotm_commit` and `picotm_end`.
 
-```
+~~~ c
     int global_value; /* concurrently accessed by multiple transactions */
 
     /* executed on thread #1 */
@@ -135,14 +135,17 @@ error-recovery code between `picotm_commit` and `picotm_end`.
 
         picotm_commit
 
-            if (picotm_error()) {
+            if (picotm_error_is_non_recoverable()) {
                 /* Unrecoverable error */
-                inform_admin_and_shutdown_gracefully();
+                inform_admin_and_shutdown_gracefully(); // provided by application
+            } else {
+                repair_error(); // provided by application
+                picotm_restart();
             }
 
         picotm_end
     }
-```
+~~~
 
 That's it. Using picotm immediately fixes all of the problems present in the
 original source code.
