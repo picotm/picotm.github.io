@@ -1,0 +1,6 @@
+<map id="picotm_lock_manager" name="picotm_lock_manager">
+<area shape="rect" id="node2" href="$d1/dea/a00829.html" title="Represents the potential owner of a lock. " alt="" coords="79,145,227,237"/>
+<area shape="rect" id="node3" href="$d1/de6/a00837.html" title="The mutex lock of the operating system. " alt="" coords="5,5,144,83"/>
+<area shape="rect" id="node4" href="$dc/d6e/a00833.html" title="The condition variable of the operating system. " alt="" coords="169,5,295,83"/>
+<area shape="rect" id="node5" href="$d5/dac/a00841.html" title="The reader/writer lock of the operating system. " alt="" coords="321,153,460,230"/>
+</map>

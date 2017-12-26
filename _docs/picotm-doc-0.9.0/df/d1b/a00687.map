@@ -1,0 +1,4 @@
+<map id="txlist_state" name="txlist_state">
+<area shape="rect" id="node2" href="$d8/dba/a00681.html" title="Represents an entry in a transaction&#45;safe list. " alt="" coords="5,5,101,83"/>
+<area shape="rect" id="node3" href="$d3/d58/a00481.html" title="A reader&#45;writer lock. " alt="" coords="195,5,312,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="txqueue_tx" name="txqueue_tx">
+<area shape="rect" id="node2" href="$d6/d1a/a00485.html" title="{picotm_rwstate\n|+ status\l|}" alt="" coords="5,145,128,223"/>
+<area shape="rect" id="node3" href="$d1/d04/a00713.html" title="Represents an entry in a transaction&#45;safe queue. " alt="" coords="118,5,234,83"/>
+<area shape="rect" id="node4" href="$dd/dc1/a00721.html" title="The global state of transaction&#45;safe queue. " alt="" coords="285,145,400,223"/>
+<area shape="rect" id="node5" href="$d3/d58/a00481.html" title="A reader&#45;writer lock. " alt="" coords="328,5,445,83"/>
+</map>
