@@ -1,0 +1,11 @@
+<map id="fd_tx" name="fd_tx">
+<area shape="rect" id="node2" href="$dc/d8e/a00473.html" title="{picotm_ref16\n|+ count\l|}" alt="" coords="153,447,261,524"/>
+<area shape="rect" id="node4" href="$d0/d1c/a00605.html" title="{ofd_tx\n|+ offset\l+ seektab\l+ seektablen\l|+ SLIST_ENTRY()\l}" alt="" coords="260,587,391,693"/>
+<area shape="rect" id="node3" href="$d6/d1a/a00485.html" title="{picotm_rwstate\n|+ status\l|}" alt="" coords="5,447,128,524"/>
+<area shape="rect" id="node5" href="$d8/dc8/a00581.html" title="{file_tx\n||+ SLIST_ENTRY()\l}" alt="" coords="401,447,532,524"/>
+<area shape="rect" id="node6" href="$dc/dac/a00585.html" title="File operations. " alt="" coords="409,160,540,384"/>
+<area shape="rect" id="node7" href="$d8/dbd/a00597.html" title="{ofd\n|+ ref_obj\l|}" alt="" coords="285,447,368,524"/>
+<area shape="rect" id="node8" href="$d3/d58/a00481.html" title="A reader&#45;writer lock. " alt="" coords="268,233,385,311"/>
+<area shape="rect" id="node9" href="$d6/db2/a00601.html" title="The unique id of an open file description. " alt="" coords="172,233,244,311"/>
+<area shape="rect" id="node10" href="$d6/da3/a00589.html" title="{file_id\n|+ dev\l+ ino\l|}" alt="" coords="177,5,239,97"/>
+</map>

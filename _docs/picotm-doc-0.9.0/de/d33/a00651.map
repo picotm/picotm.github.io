@@ -1,0 +1,9 @@
+<map id="socket_tx" name="socket_tx">
+<area shape="rect" id="node2" href="$dc/d8e/a00473.html" title="{picotm_ref16\n|+ count\l|}" alt="" coords="5,292,113,369"/>
+<area shape="rect" id="node3" href="$dd/d6b/a00649.html" title="{socket\n|+ ref_obj\l|}" alt="" coords="138,292,221,369"/>
+<area shape="rect" id="node4" href="$d6/da3/a00589.html" title="{file_id\n|+ dev\l+ ino\l|}" alt="" coords="93,71,154,163"/>
+<area shape="rect" id="node5" href="$d3/d58/a00481.html" title="A reader&#45;writer lock. " alt="" coords="178,79,295,156"/>
+<area shape="rect" id="node6" href="$d6/d1a/a00485.html" title="{picotm_rwstate\n|+ status\l|}" alt="" coords="245,292,367,369"/>
+<area shape="rect" id="node7" href="$d8/dc8/a00581.html" title="{file_tx\n||+ SLIST_ENTRY()\l}" alt="" coords="391,292,522,369"/>
+<area shape="rect" id="node8" href="$dc/dac/a00585.html" title="File operations. " alt="" coords="391,5,522,229"/>
+</map>

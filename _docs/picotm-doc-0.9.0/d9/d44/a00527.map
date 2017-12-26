@@ -1,0 +1,9 @@
+<map id="chrdev_tx" name="chrdev_tx">
+<area shape="rect" id="node2" href="$dc/d8e/a00473.html" title="{picotm_ref16\n|+ count\l|}" alt="" coords="5,292,113,369"/>
+<area shape="rect" id="node3" href="$d6/d1a/a00485.html" title="{picotm_rwstate\n|+ status\l|}" alt="" coords="138,292,261,369"/>
+<area shape="rect" id="node4" href="$d8/dc8/a00581.html" title="{file_tx\n||+ SLIST_ENTRY()\l}" alt="" coords="285,292,415,369"/>
+<area shape="rect" id="node5" href="$dc/dac/a00585.html" title="File operations. " alt="" coords="285,5,415,229"/>
+<area shape="rect" id="node6" href="$d7/db7/a00525.html" title="{chrdev\n|+ ref_obj\l|}" alt="" coords="439,292,522,369"/>
+<area shape="rect" id="node7" href="$d6/da3/a00589.html" title="{file_id\n|+ dev\l+ ino\l|}" alt="" coords="445,71,506,163"/>
+<area shape="rect" id="node8" href="$d3/d58/a00481.html" title="A reader&#45;writer lock. " alt="" coords="530,79,647,156"/>
+</map>
