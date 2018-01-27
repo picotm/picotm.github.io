@@ -1,0 +1,6 @@
+<map id="txmultiset_tx" name="txmultiset_tx">
+<area shape="rect" id="node2" href="$da/df7/a00739.html" title="The global state of transaction&#45;safe multiset. " alt="" coords="35,160,165,252"/>
+<area shape="rect" id="node3" href="$d8/d67/a00499.html" title="A reader&#45;writer lock. " alt="" coords="5,5,123,83"/>
+<area shape="rect" id="node4" href="$df/df7/a00731.html" title="Represents an entry in a transaction&#45;safe multiset. " alt="" coords="147,5,277,83"/>
+<area shape="rect" id="node5" href="$d4/de5/a00503.html" title="{picotm_rwstate\n|+ status\l|}" alt="" coords="189,167,312,245"/>
+</map>

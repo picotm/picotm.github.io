@@ -1,0 +1,16 @@
+<map id="txlib_event" name="txlib_event">
+<area shape="rect" id="node2" href="$d3/d3b/a00715.html" title="Represents an entry in a transaction&#45;safe list. " alt="" coords="278,5,374,83"/>
+<area shape="rect" id="node15" href="$de/de6/a00723.html" title="The global state of transaction&#45;safe list. " alt="" coords="357,167,452,245"/>
+<area shape="rect" id="node3" href="$d3/de3/a00763.html" title="Represents an entry in a transaction&#45;safe stack. " alt="" coords="5,5,116,83"/>
+<area shape="rect" id="node4" href="$dc/d22/a00843.html" title="A stack transaction. " alt="" coords="205,329,295,407"/>
+<area shape="rect" id="node5" href="$dd/de5/a00771.html" title="The global state of transaction&#45;safe stack. " alt="" coords="221,167,332,245"/>
+<area shape="rect" id="node6" href="$d8/d67/a00499.html" title="A reader&#45;writer lock. " alt="" coords="558,5,675,83"/>
+<area shape="rect" id="node10" href="$d2/ddd/a00755.html" title="The global state of transaction&#45;safe queue. " alt="" coords="797,167,911,245"/>
+<area shape="rect" id="node13" href="$da/df7/a00739.html" title="The global state of transaction&#45;safe multiset. " alt="" coords="624,160,753,252"/>
+<area shape="rect" id="node7" href="$d4/de5/a00503.html" title="{picotm_rwstate\n|+ status\l|}" alt="" coords="477,167,599,245"/>
+<area shape="rect" id="node8" href="$df/de8/a00839.html" title="A queue transaction. " alt="" coords="805,329,900,407"/>
+<area shape="rect" id="node12" href="$dd/d70/a00835.html" title="A multiset transaction. " alt="" coords="555,329,665,407"/>
+<area shape="rect" id="node14" href="$d7/d5f/a00831.html" title="A list transaction. " alt="" coords="457,329,531,407"/>
+<area shape="rect" id="node9" href="$d5/d68/a00747.html" title="Represents an entry in a transaction&#45;safe queue. " alt="" coords="952,5,1068,83"/>
+<area shape="rect" id="node11" href="$df/df7/a00731.html" title="Represents an entry in a transaction&#45;safe multiset. " alt="" coords="713,5,843,83"/>
+</map>
