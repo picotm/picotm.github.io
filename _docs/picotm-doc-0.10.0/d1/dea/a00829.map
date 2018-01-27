@@ -1,0 +1,6 @@
+<map id="txlist_tx" name="txlist_tx">
+<area shape="rect" id="node2" href="$d4/de5/a00503.html" title="{picotm_rwstate\n|+ status\l|}" alt="" coords="5,145,128,223"/>
+<area shape="rect" id="node3" href="$de/de6/a00723.html" title="The global state of transaction&#45;safe list. " alt="" coords="153,145,247,223"/>
+<area shape="rect" id="node4" href="$d3/d3b/a00715.html" title="Represents an entry in a transaction&#45;safe list. " alt="" coords="21,5,117,83"/>
+<area shape="rect" id="node5" href="$d8/d67/a00499.html" title="A reader&#45;writer lock. " alt="" coords="211,5,328,83"/>
+</map>

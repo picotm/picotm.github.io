@@ -1,0 +1,6 @@
+<map id="The Transactional Data&#45;Structures Module" name="The Transactional Data&#45;Structures Module">
+<area shape="rect" id="node1" href="$d9/dea/a00478.html" title="The transactional queue provides a transaction&#45;safe implementation of a single&#45;ended FIFO queue..." alt="" coords="397,16,558,43"/>
+<area shape="rect" id="node2" href="$d9/dca/a00477.html" title="The transactional multiset provides a transaction&#45;safe implementation of a multiset. Multisets are sorted sets of elements. Duplicate entries are supported. " alt="" coords="392,76,563,103"/>
+<area shape="rect" id="node3" href="$d9/d34/a00476.html" title="The transactional list provides a transaction&#45;safe implementation of a double&#45;linked list..." alt="" coords="406,136,549,163"/>
+<area shape="rect" id="node5" href="$d9/d4a/a00479.html" title="The transactional stack provides a transaction&#45;safe implementation of a single&#45;ended LIFO stack..." alt="" coords="400,196,555,223"/>
+</map>
