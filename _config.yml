@@ -51,7 +51,7 @@ display-next-prev-post: true
 # Jekyll SEO tag
 
 # quick downloads
-download_url:   https://github.com/picotm/picotm/releases/download/v0.9.0/picotm-0.9.0.tar.gz
+download_url:   https://github.com/picotm/picotm/releases/download/v0.10.1/picotm-0.10.1.tar.gz
 
 author: Thomas Zimmermann
 email:  tdz@users.sourceforge.net
