@@ -19,6 +19,13 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
+  <!-- icons -->
+  <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/icon-180.png">
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/icon-96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/icon-32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/icon-192.png" sizes="192x192">
+  <!-- /icons -->
+
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
