@@ -14,10 +14,10 @@ simply have a question. Use the [web-interface to subscribe][picotm-devel] to th
 <a href="mailto:picotm-devel-request@picotm.org?subject=subscribe&body=subscribe">
 send 'subscribe' to &lt;picotm-devel-request@picotm.org&gt;</a>.
 
-To report bugs or request features please open a new topic in the
+To report bugs or request features, please open a new topic in the
 [issue tracker][issues] on Github.
 
-For real-time communication, join our IRC channel
+For real-time communication, please join our IRC channel
 [#picotm on freenode.net][irc].
 
 ## Professional Support
@@ -29,7 +29,7 @@ please reach out to
 
   [Thomas Zimmermann][transactionblog] &lt;<tdz@users.sourceforge.net>&gt;.
 
-[irc]:              {{ size.baseurl }} /irc/
+[irc]:              https://webchat.freenode.net?randomnick=1&channels=%23picotm
 [issues]:           https://github.com/picotm/picotm/issues
 [picotm-devel]:     https://www.freelists.org/list/picotm-devel
 [transactionblog]:  http://transactionblog.org
