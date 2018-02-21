@@ -127,6 +127,7 @@ error-recovery code between `picotm_commit` and `picotm_end`.
     }
 
     /* executed on thread #2 */
+    void
     save_value(int fildes1, int fildes2, off_t offset)
     {
         picotm_begin
