@@ -23,6 +23,8 @@ Picotm offers
  - built-in support for
    - memory operations (Transactional Memory),
    - transactional data structures (i.e., lists, multisets, queues, stacks),
+   - type casting and arithmetic that is safe from overflows, underflows
+     and divisions by zero,
    - memory allocation,
    - file-descriptor I/O,
    - C string and memory functions,
