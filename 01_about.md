@@ -28,7 +28,8 @@ Picotm offers
    - memory allocation,
    - file-descriptor I/O,
    - C string and memory functions,
-   - C math functions, and
+   - C math functions,
+   - UNIX signal handling, and
    - much more.
 
 Picotm is implemented
