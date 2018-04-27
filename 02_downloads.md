@@ -37,7 +37,7 @@ sizes.
 [PNG (216x256)][cate256_png]
 [PNG (432x512)][cate512_png]
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Cate</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="picotm.org" property="cc:attributionName" rel="cc:attributionURL">Thomas Zimmermann</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Images of <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Cate</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 [releases]:     https://github.com/picotm/picotm/releases
 [cate_svg]:     {{ site.baseurl }}/assets/cate.svg
