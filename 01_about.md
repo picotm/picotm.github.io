@@ -39,7 +39,7 @@ Picotm is implemented
  - in portable C, and
  - extensible to support the features and environments you require.
 
-Currently supported are a variety of Linux systems, Windows (via Cygwin),
+Currently supported are a variety of GNU/Linux systems, Windows (via Cygwin),
 MacOS X, and FreeBSD.
 
 ## Example

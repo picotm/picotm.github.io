@@ -9,7 +9,7 @@ You can always find the latest version, or any previous one, on the
 [Release][releases] page.
 
 If you are interested in the latest snapshot, or want to develop picotm
-itself, you'll have to download the git repository. On your Linux system,
+itself, you'll have to download the git repository. On your GNU/Linux system,
 enter
 
 ```
