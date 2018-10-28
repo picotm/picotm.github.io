@@ -20,16 +20,6 @@ To report bugs or request features, please open a new topic in the
 For real-time communication, please join our IRC channel
 [#picotm on freenode.net][irc].
 
-## Professional Support
-
-Picotm comes with professional support available. Professional support
-may include training, custom modifications, integration into your software
-project, long term support, or anything else you need. If you are interested,
-please reach out to
-
-  [Thomas Zimmermann][transactionblog] &lt;<tdz@users.sourceforge.net>&gt;.
-
 [irc]:              https://webchat.freenode.net?randomnick=1&channels=%23picotm
 [issues]:           https://github.com/picotm/picotm/issues
 [picotm-devel]:     https://www.freelists.org/list/picotm-devel
-[transactionblog]:  http://transactionblog.org
