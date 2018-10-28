@@ -12,8 +12,10 @@ Picotm applies the concept of transactions to low-level code and
 operating-system interfaces. Error handling and thread isolation are
 provided by picotm, all you have to write is the application logic.
 
-Picotm is Open Source under terms of the [MIT License][license:mit];
-viable for use with free and proprietary software.
+Picotm is free software: you can redistribute it and/or modify it under
+the terms of the [GNU Lesser General Public License][license:lgplv3] as
+published by the Free Software Foundation, either version 3 of the License,
+or (at your option) any later version.
 
 ## Features
 
@@ -195,10 +197,4 @@ All information about getting picotm is available on the
 [Downloads](/downloads/) page. You can either download a stable release, or
 get a snapshot of the latest code.
 
-## Licensing
-
-Picotm is Open Source Software, provided under the terms of the
-[MIT License][license:mit]. The MIT License allows for use with free and
-proprietary software.
-
-[license:mit]:  http://choosealicense.com/licenses/mit/
+[license:lgplv3]:   https://www.gnu.org/licenses/
